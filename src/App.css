@@ -1,0 +1,42 @@
+body {
+  background-image: url(./images/fireheart.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.margin {
+  margin: 1rem;
+}
+
+.textCenter {
+  text-align: center;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.centerBox {
+  border: 2px solid black;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+ul, li {
+  list-style: none;
+}
+
